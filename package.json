@@ -1,11 +1,5 @@
 
 
-"scripts": {
-  "start": "node server.js"
-},
-
-
-
 {
   "name": "seatcamp",
   "version": "1.0.0",
